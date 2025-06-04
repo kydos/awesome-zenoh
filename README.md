@@ -10,7 +10,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 - [Official Resources](#official-resources)
 - [Protocol Implementations](#protocol--implementations)
-- [Language Bindings](#language--bindings--(apis))
+- [Language Bindings](#api)
 - [Connectors](#connectors)
 - [ROS 2](#ros--2)
 - [Data Flow Programming](#data-flow-programming)
@@ -36,7 +36,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 ---
 
-## Language Bindings (APIs)
+## API
 - [`zenoh-rs`](https://github.com/eclipse-zenoh/zenoh) – API for the Rust implementation of Zenoh
 - [`zenoh-python`](https://github.com/eclipse-zenoh/zenoh-python) – Python bindings for Zenoh Rust.
 - [`zenoh-kotlin`](https://github.com/eclipse-zenoh/zenoh-kotlin) - Kotlin bindings for Zenoh Rust
@@ -52,7 +52,6 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [`zenoh-plugin-dds`](https://github.com/eclipse-zenoh/zenoh-plugin-dds) – Bridge between Zenoh and DDS.
 - [`zenoh-plugin-rest`](https://github.com/eclipse-zenoh/zenoh-plugin-rest) – RESTful API plugin for Zenoh.
 - [`zenoh-bridge-mqtt`](https://github.com/eclipse-zenoh/zenoh-bridge-mqtt) – Bridge between MQTT and Zenoh.
-monitoring.
 
 ---
 
