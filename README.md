@@ -25,7 +25,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 - 🌐 [Zenoh Website](https://zenoh.io)
 - 🧬 [Zenoh GitHub Organization](https://github.com/eclipse-zenoh)
-- 📘 [Zenoh Documentation](https://zenoh.io/docs)
+- 📘 [Zenoh Documentation](https://zenoh.io/docs/getting-started/first-app/)
 
 ---
 
