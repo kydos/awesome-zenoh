@@ -13,6 +13,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [API](#api)
 - [Connectors](#connectors)
 - [ROS 2](#ros-2)
+- [AI](#ai)
 - [Command Line Tool](#command-line-tool)
 - [Data Flow Programming](#data-flow-programming)
 - [Tutorials & Examples](#tutorials-and-examples)
@@ -62,6 +63,10 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [`ros-z`](http://github.com/zettaScaleLabs/ros-z) - Zenoh-native ROS 2 implementation.
 - [`pico-ros`](https://github.com/pico-ros) - Lightweight ROS 2 implementation designed for resource-constrained devices, Built on top of [zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico)
 
+---
+
+## AI
+- [`om1`](https://github.com/OpenmindAGI/OM1) - Openmind's OM1 is a modular AI runtime that empowers developers to create and deploy multimodal AI agents seamlessly across both digital environments and physical robots.
 ---
 
 ## Command Line Tool
