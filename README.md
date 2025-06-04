@@ -16,6 +16,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [AI](#ai)
 - [Command Line Tool](#command-line-tool)
 - [Data Flow Programming](#data-flow-programming)
+- [Automotive](#automotive)
 - [Tutorials & Examples](#tutorials-and-examples)
 - [Talks & Articles](#talks-and-articles)
 - [Community Projects](#community-projects)
@@ -79,6 +80,11 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [`zenoh-flow`](https://github.com/eclipse-zenoh/zenoh-flow) – A data-flow orchestration engine powered by Zenoh.
 - [`dora-rs`](https://github.com/dora-rs/dora) – dora-rs is a framework to run realtime multi-AI and multi-hardware applications.
 
+---
+
+##  Automotive
+- [`uprotocol`](https://github.com/eclipse-uprotocol) - Project to enable connecting automotive applications and services anywhere.
+  
 ---
 
 ## Tutorials and Examples
