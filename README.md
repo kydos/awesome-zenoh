@@ -10,6 +10,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 - [Official Resources](#official-resources)
 - [Protocol Implementations](#protocol--implementations)
+- [Language Bindings](#language--bindings--(apis))
 - [Connectors](#connectors)
 - [ROS 2](#ros--2)
 - [Data Flow Programming](#data-flow-programming)
