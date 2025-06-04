@@ -34,6 +34,8 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [`zenoh`](https://github.com/eclipse-zenoh/zenoh) – Official Rust implementation of Zenoh.
 - [`zenoh-pico`](https://github.com/eclipse-zenoh/zenoh-pico) – Lightweight implementation in C for MCUs and embedded platforms.
 
+---
+
 ## Language Bindings (APIs)
 - [`zenoh-rs`](https://github.com/eclipse-zenoh/zenoh) – API for the Rust implementation of Zenoh
 - [`zenoh-python`](https://github.com/eclipse-zenoh/zenoh-python) – Python bindings for Zenoh Rust.
