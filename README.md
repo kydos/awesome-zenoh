@@ -53,6 +53,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [`zenoh-plugin-dds`](https://github.com/eclipse-zenoh/zenoh-plugin-dds) – Bridge between Zenoh and DDS.
 - [`zenoh-plugin-rest`](https://github.com/eclipse-zenoh/zenoh-plugin-rest) – RESTful API plugin for Zenoh.
 - [`zenoh-bridge-mqtt`](https://github.com/eclipse-zenoh/zenoh-bridge-mqtt) – Bridge between MQTT and Zenoh.
+- [`liason`](https://github.com/RISE-Maritime/liaison) - Simplify the sharing of Functional Mock-up Units (FMUs) both within and between organizations. 
 
 ---
 
