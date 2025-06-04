@@ -10,11 +10,10 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 - [Official Resources](#official-resources)
 - [Protocol Implementations](#protocol--implementations)
-- [Protocol Implementations](#protocol--implementations)
-- [Tools](#tools)
-- [Applications](#applications)
+- [Connectors](#connectors)
+- [ROS 2](#ros--2)
+- [Data Flow Programming](#data-flow-programming)
 - [Tutorials & Examples](#tutorials--examples)
-- [Integration Projects](#integration-projects)
 - [Talks & Articles](#talks--articles)
 - [Community Projects](#community-projects)
 - [Contributing](#contributing)
@@ -60,10 +59,11 @@ monitoring.
 - [`rmw_zenoh`](http://github.com/ros2/rmw_zenoh) – Zenoh-based middleware implementation for ROS 2.
 - [`ros-z`](http://github.com/zettaScaleLabs/ros-z) - Zenoh-native ROS 2 implementation.
 
+---
+
 ## Data Flow Programming
 - [`zenoh-flow`](https://github.com/eclipse-zenoh/zenoh-flow) – A data-flow orchestration engine powered by Zenoh.
 - [`dora-rs`](https://github.com/dora-rs/dora) – dora-rs is a framework to run realtime multi-AI and multi-hardware applications.
-
 
 ---
 
