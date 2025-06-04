@@ -11,6 +11,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [Official Resources](#official-resources)
 - [Protocol Implementations](#protocol-implementations)
 - [API](#api)
+- [Tools](#tools)
 - [Connectors](#connectors)
 - [ROS 2](#ros-2)
 - [AI](#ai)
@@ -47,6 +48,13 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [`zenoh-cpp`](https://github.com/eclipse-zenoh/zenoh-cpp) – C-bindings for Zenoh Rust and Zenoh-Pico.
 - [`zenoh-ts`](https://github.com/eclipse-zenoh/zenoh-ts) – TypeScript implementation of remote Zenoh API
 - [`zenoh-java`](https://github.com/eclipse-zenoh/zenoh-java) – Java/Kotlin bindings for Zenoh Rust.
+- [`zenoh-jl`](https://github.com/BenChung/Zenoh.jl) - Julia binding for Zenoh Rust.
+
+---
+
+## Tools
+- [`wireshark`](https://github.com/eclipse-zenoh/zenoh-dissector) - Zenoh protocol dissector for Wireshark.
+- [`zenoh-hammer`](https://github.com/sanri/zenoh-hammer) - Zenoh ui tool. Convenient for simple zenoh network communication testing.
 
 ---
 
