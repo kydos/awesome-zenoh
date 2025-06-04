@@ -10,9 +10,10 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 - [Official Resources](#official-resources)
 - [Protocol Implementations](#protocol-implementations)
-- [Language Bindings](#api)
+- [API](#api)
 - [Connectors](#connectors)
 - [ROS 2](#ros-2)
+- [Command Line Tool](#command-line-tool)
 - [Data Flow Programming](#data-flow-programming)
 - [Tutorials & Examples](#tutorials-and-examples)
 - [Talks & Articles](#talks-and-articles)
@@ -58,6 +59,12 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 ## ROS 2
 - [`rmw_zenoh`](http://github.com/ros2/rmw_zenoh) – Zenoh-based middleware implementation for ROS 2.
 - [`ros-z`](http://github.com/zettaScaleLabs/ros-z) - Zenoh-native ROS 2 implementation.
+
+---
+
+## Command Line Tool
+- [`zenoh-cli`](https://github.com/RISE-Maritime/zenoh-cli) – A Python-based commandline tool to interact with a Zenoh Session. 
+- [`zsak`](http://github.com/kydos/zsak) - Zenoh Swiss Army Knife, a Rust-based commandline tool that can be used to learn Zenoh.
 
 ---
 
