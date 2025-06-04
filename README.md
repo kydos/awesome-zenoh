@@ -78,7 +78,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 ## Talks and Articles
 - [Zenoh Paper](https://bit.ly/3P0DJ3N)
 - [Zenoh Tier-1 ROS 2 Announcement](https://discourse.ros.org/t/ros-2-kilted-kaiju-release/43902)
-- [RMW Alternate Report](https://zenoh.io/blog](https://discourse.ros.org/t/ros-2-alternative-middleware-report/33771)
+- [RMW Alternate Report](https://discourse.ros.org/t/ros-2-alternative-middleware-report/33771)
 
 ---
 
