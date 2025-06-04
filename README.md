@@ -14,8 +14,8 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [Connectors](#connectors)
 - [ROS 2](#ros-2)
 - [Data Flow Programming](#data-flow-programming)
-- [Tutorials & Examples](#tutorials-&-examples)
-- [Talks & Articles](#talks-&-articles)
+- [Tutorials & Examples](#tutorials-and-examples)
+- [Talks & Articles](#talks-and-articles)
 - [Community Projects](#community-projects)
 - [Contributing](#contributing)
 
@@ -67,7 +67,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 ---
 
-## Tutorials & Examples
+## Tutorials and Examples
 
 - [Zenoh Examples (Official)](https://github.com/eclipse-zenoh/zenoh/tree/main/examples)
 - [Zenoh Webinar Slides](https://speakerdeck.com/kydos/collections/zenoh-webinar-ad-2025)
@@ -75,11 +75,10 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 ---
 
-## Talks & Articles
+## Talks and Articles
 - [Zenoh Paper](https://bit.ly/3P0DJ3N)
 - [Zenoh Tier-1 ROS 2 Announcement](https://discourse.ros.org/t/ros-2-kilted-kaiju-release/43902)
-- [RMW Alternate Report]([https://zenoh.io/blog](https://discourse.ros.org/t/ros-2-alternative-middleware-report/33771))
-
+- [RMW Alternate Report](https://zenoh.io/blog](https://discourse.ros.org/t/ros-2-alternative-middleware-report/33771)
 
 ---
 
