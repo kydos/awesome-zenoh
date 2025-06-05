@@ -43,6 +43,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 ---
 
 ## Official API
+
 - [`zenoh-rs`](https://github.com/eclipse-zenoh/zenoh) – API for the Rust implementation of Zenoh
 - [`zenoh-python`](https://github.com/eclipse-zenoh/zenoh-python) – Python bindings for Zenoh Rust.
 - [`zenoh-kotlin`](https://github.com/eclipse-zenoh/zenoh-kotlin) - Kotlin bindings for Zenoh Rust
@@ -54,58 +55,73 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 ---
 
 ## Community API
+
 - [`zenoh-jl`](https://github.com/BenChung/Zenoh.jl) - Julia binding for Zenoh Rust.
 - [`zenoh-csharp`](https://github.com/sanri/zenoh-csharp) - Zenoh-CS provides the common interface of Zenoh-C.
 
 ---
 
 ## Tools
+
 - [`wireshark`](https://github.com/eclipse-zenoh/zenoh-dissector) - Zenoh protocol dissector for Wireshark.
 - [`zenoh-hammer`](https://github.com/sanri/zenoh-hammer) - Zenoh ui tool. Convenient for simple zenoh network communication testing.
 
 ---
 
 ## Connectors
+
 - [`zenoh-plugin-ros2dds`](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds) – Bridge between Zenoh and DDS-based ROS2.
 - [`zenoh-plugin-dds`](https://github.com/eclipse-zenoh/zenoh-plugin-dds) – Bridge between Zenoh and DDS.
 - [`zenoh-plugin-rest`](https://github.com/eclipse-zenoh/zenoh-plugin-rest) – RESTful API plugin for Zenoh.
 - [`zenoh-bridge-mqtt`](https://github.com/eclipse-zenoh/zenoh-bridge-mqtt) – Bridge between MQTT and Zenoh.
 - [`liason`](https://github.com/RISE-Maritime/liaison) - Simplify the sharing of Functional Mock-up Units (FMUs) both within and between organizations. 
 - [`gatorcat`](https://github.com/kj4tmp/gatorcat) - EtherCAT maindevice written in Zig with Zenoh connectivity.
-  
+
 ---
 
 ## ROS 2
+
 - [`rmw_zenoh`](http://github.com/ros2/rmw_zenoh) – Zenoh-based middleware implementation for ROS 2.
 - [`ros-z`](http://github.com/zettaScaleLabs/ros-z) - Zenoh-native ROS 2 implementation.
 - [`pico-ros`](https://github.com/pico-ros) - Lightweight ROS 2 implementation designed for resource-constrained devices, Built on top of [zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico)
+- [zenoh-ros-type](https://github.com/evshary/zenoh-ros-type) - Common ROS 2 message types for Zenoh in Rust.
+- [zenoh-ros-type-python](https://github.com/evshary/zenoh-ros-type-python) - Common ROS 2 message types for Zenoh in Python.
 
 ---
 
 ## Robotics
+
 - [`keelson`](https://github.com/RISE-Maritime/keelson) - Maritime best practices API specification designed for building distributed maritime robotics applications on top of the Zenoh communication protocol.
 
 ---
 
 ## AI
+
 - [`om1`](https://github.com/OpenmindAGI/OM1) - Openmind's OM1 is a modular AI runtime that empowers developers to create and deploy multimodal AI agents seamlessly across both digital environments and physical robots.
 ---
 
 ## Command Line Tool
+
 - [`zenoh-cli`](https://github.com/RISE-Maritime/zenoh-cli) – A Python-based commandline tool to interact with a Zenoh Session. 
 - [`zsak`](http://github.com/kydos/zsak) - Zenoh Swiss Army Knife, a Rust-based commandline tool that can be used to learn Zenoh.
 
 ---
 
 ## Data Flow Programming
+
 - [`zenoh-flow`](https://github.com/eclipse-zenoh/zenoh-flow) – A data-flow orchestration engine powered by Zenoh.
 - [`dora-rs`](https://github.com/dora-rs/dora) – dora-rs is a framework to run realtime multi-AI and multi-hardware applications.
 
 ---
 
-##  Automotive
+## Automotive
+
 - [`uprotocol`](https://github.com/eclipse-uprotocol) - Project to enable connecting automotive applications and services anywhere.
-  
+  - [up-transport-zenoh-rust](https://github.com/eclipse-uprotocol/up-transport-zenoh-rust) - Rust implementation.
+  - [up-transport-zenoh-cpp](https://github.com/eclipse-uprotocol/up-transport-zenoh-cpp) - C++ implementation.
+- [zenoh_autoware_fms](https://github.com/evshary/zenoh_autoware_fms) - Project to showcase an Autoware fleet management system with Zenoh.
+- [zenoh_autoware_v2x](https://github.com/evshary/zenoh_autoware_v2x) - Project to showcase an Autoware V2X scenario with Zenoh.
+
 ---
 
 ## Tutorials and Examples
@@ -117,6 +133,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 ---
 
 ## Talks and Articles
+
 - [Zenoh Paper](https://bit.ly/3P0DJ3N)
 - [Zenoh Tier-1 ROS 2 Announcement](https://discourse.ros.org/t/ros-2-kilted-kaiju-release/43902)
 - [RMW Alternate Report](https://discourse.ros.org/t/ros-2-alternative-middleware-report/33771)
