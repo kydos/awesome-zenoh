@@ -10,10 +10,12 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 - [Official Resources](#official-resources)
 - [Protocol Implementations](#protocol-implementations)
-- [API](#api)
+- [Official API](#official-api)
+- [Community API](#community-api)
 - [Tools](#tools)
 - [Connectors](#connectors)
 - [ROS 2](#ros-2)
+- [Robotics](#robotics)
 - [AI](#ai)
 - [Command Line Tool](#command-line-tool)
 - [Data Flow Programming](#data-flow-programming)
@@ -40,7 +42,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 ---
 
-## API
+## Official API
 - [`zenoh-rs`](https://github.com/eclipse-zenoh/zenoh) – API for the Rust implementation of Zenoh
 - [`zenoh-python`](https://github.com/eclipse-zenoh/zenoh-python) – Python bindings for Zenoh Rust.
 - [`zenoh-kotlin`](https://github.com/eclipse-zenoh/zenoh-kotlin) - Kotlin bindings for Zenoh Rust
@@ -48,7 +50,12 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [`zenoh-cpp`](https://github.com/eclipse-zenoh/zenoh-cpp) – C-bindings for Zenoh Rust and Zenoh-Pico.
 - [`zenoh-ts`](https://github.com/eclipse-zenoh/zenoh-ts) – TypeScript implementation of remote Zenoh API
 - [`zenoh-java`](https://github.com/eclipse-zenoh/zenoh-java) – Java/Kotlin bindings for Zenoh Rust.
+
+---
+
+## Community API
 - [`zenoh-jl`](https://github.com/BenChung/Zenoh.jl) - Julia binding for Zenoh Rust.
+- [`zenoh-csharp`](https://github.com/sanri/zenoh-csharp) - Zenoh-CS provides the common interface of Zenoh-C.
 
 ---
 
@@ -64,13 +71,19 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [`zenoh-plugin-rest`](https://github.com/eclipse-zenoh/zenoh-plugin-rest) – RESTful API plugin for Zenoh.
 - [`zenoh-bridge-mqtt`](https://github.com/eclipse-zenoh/zenoh-bridge-mqtt) – Bridge between MQTT and Zenoh.
 - [`liason`](https://github.com/RISE-Maritime/liaison) - Simplify the sharing of Functional Mock-up Units (FMUs) both within and between organizations. 
-
+- [`gatorcat`](https://github.com/kj4tmp/gatorcat) - EtherCAT maindevice written in Zig with Zenoh connectivity.
+  
 ---
 
 ## ROS 2
 - [`rmw_zenoh`](http://github.com/ros2/rmw_zenoh) – Zenoh-based middleware implementation for ROS 2.
 - [`ros-z`](http://github.com/zettaScaleLabs/ros-z) - Zenoh-native ROS 2 implementation.
 - [`pico-ros`](https://github.com/pico-ros) - Lightweight ROS 2 implementation designed for resource-constrained devices, Built on top of [zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico)
+
+---
+
+## Robotics
+- [`keelson`](https://github.com/RISE-Maritime/keelson) - Maritime best practices API specification designed for building distributed maritime robotics applications on top of the Zenoh communication protocol.
 
 ---
 
