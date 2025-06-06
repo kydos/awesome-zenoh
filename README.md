@@ -58,6 +58,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 - [`zenoh-jl`](https://github.com/BenChung/Zenoh.jl) - Julia binding for Zenoh Rust.
 - [`zenoh-csharp`](https://github.com/sanri/zenoh-csharp) - Zenoh-CS provides the common interface of Zenoh-C.
+- [`zenohex`](https://github.com/biyooon-ex/zenohex) - Elixir binding for Zenoh Rust.
 
 ---
 
