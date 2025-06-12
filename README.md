@@ -19,7 +19,8 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [AI](#ai)
 - [Command Line Tool](#command-line-tool)
 - [Data Flow Programming](#data-flow-programming)
-- [Automotive](#automotive)
+- [Autoware](#autoware)
+- [Eclipse SDV](#eclipse-sdv)
 - [Tutorials & Examples](#tutorials-and-examples)
 - [Talks & Articles](#talks-and-articles)
 - [Community Projects](#community-projects)
@@ -85,8 +86,8 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [`rmw_zenoh`](http://github.com/ros2/rmw_zenoh) – Zenoh-based middleware implementation for ROS 2.
 - [`ros-z`](http://github.com/zettaScaleLabs/ros-z) - Zenoh-native ROS 2 implementation.
 - [`pico-ros`](https://github.com/pico-ros) - Lightweight ROS 2 implementation designed for resource-constrained devices, Built on top of [zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico)
-- [zenoh-ros-type](https://github.com/evshary/zenoh-ros-type) - Common ROS 2 message types for Zenoh in Rust.
-- [zenoh-ros-type-python](https://github.com/evshary/zenoh-ros-type-python) - Common ROS 2 message types for Zenoh in Python.
+- [`zenoh-ros-type`](https://github.com/evshary/zenoh-ros-type) - Common ROS 2 message types for Zenoh in Rust.
+- [`zenoh-ros-type-python`](https://github.com/evshary/zenoh-ros-type-python) - Common ROS 2 message types for Zenoh in Python.
 
 ---
 
@@ -115,15 +116,22 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 ---
 
-## Automotive
+## Autoware
+
+- [`autoware_rmw_zenoh`](https://github.com/evshary/autoware_rmw_zenoh) - Tutorial for running Autoware with [rmw_zenoh](http://github.com/ros2/rmw_zenoh).
+- [`zenoh_carla_bridge`](https://github.com/evshary/zenoh_carla_bridge) - Bridge Autoware and Carla with Zenoh.
+- [`zenoh_autoware_fms`](https://github.com/evshary/zenoh_autoware_fms) - Project to showcase an Autoware fleet management system with Zenoh.
+- [`zenoh_autoware_v2x`](https://github.com/evshary/zenoh_autoware_v2x) - Project to showcase an Autoware V2X scenario with Zenoh.
+
+---
+
+## Eclipse SDV
 
 - [`uprotocol`](https://github.com/eclipse-uprotocol) - Project to enable connecting automotive applications and services anywhere.
-  - [up-transport-zenoh-rust](https://github.com/eclipse-uprotocol/up-transport-zenoh-rust) - Rust implementation.
-  - [up-transport-zenoh-cpp](https://github.com/eclipse-uprotocol/up-transport-zenoh-cpp) - C++ implementation.
-- [zenoh_autoware_fms](https://github.com/evshary/zenoh_autoware_fms) - Project to showcase an Autoware fleet management system with Zenoh.
-- [zenoh_autoware_v2x](https://github.com/evshary/zenoh_autoware_v2x) - Project to showcase an Autoware V2X scenario with Zenoh.
-- [`zenoh_carla_bridge`](https://github.com/evshary/zenoh_carla_bridge) - Bridge Autoware and Carla with Zenoh.
-- [`autoware_rmw_zenoh`](https://github.com/evshary/autoware_rmw_zenoh) - Tutorial for running Autoware with [rmw_zenoh](http://github.com/ros2/rmw_zenoh).
+  - [`up-transport-zenoh-rust`](https://github.com/eclipse-uprotocol/up-transport-zenoh-rust) - Rust implementation.
+  - [`up-transport-zenoh-cpp`](https://github.com/eclipse-uprotocol/up-transport-zenoh-cpp) - C++ implementation.
+- [`fleet-management`](https://github.com/eclipse-sdv-blueprints/fleet-management) - A close to real-life showcase for truck fleet management where trucks run an SDV software stack so that logistics fleet operators can manage apps, data and services for a diverse set of vehicles.
+- [`service-to-signal`](https://github.com/eclipse-sdv-blueprints/service-to-signal) - The blueprint showcases how to use the Eclipse uProtocol to make a vehicle service available in a vehicle network and connect the service implementation with potential physical hardware
 
 ---
 
