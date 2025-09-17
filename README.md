@@ -82,6 +82,12 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 ---
 
+## ROS 
+
+- [`ROSLibRust`](https://github.com/RosLibRust/roslibrust) - An async first rust client for ROS supporting multiple backends: ROS1, rosbridge, and Zenoh.
+
+---
+
 ## ROS 2
 
 - [`rmw_zenoh`](http://github.com/ros2/rmw_zenoh) – Zenoh-based middleware implementation for ROS 2.
@@ -95,6 +101,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 ## Robotics
 
 - [`keelson`](https://github.com/RISE-Maritime/keelson) - Maritime best practices API specification designed for building distributed maritime robotics applications on top of the Zenoh communication protocol.
+- [`Tide`](https://github.com/NorthCarolinaRivalRobotics/tide) - A lightweight, strongly-typed framework for robotics based on Zenoh, with opinionated namespacing.
 
 ---
 
