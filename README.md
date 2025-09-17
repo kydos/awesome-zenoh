@@ -14,6 +14,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [Community API](#community-api)
 - [Tools](#tools)
 - [Connectors](#connectors)
+- [ROS](#ros)
 - [ROS 2](#ros-2)
 - [Robotics](#robotics)
 - [AI](#ai)
