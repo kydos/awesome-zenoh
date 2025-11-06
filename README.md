@@ -115,6 +115,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 - [`NuZe`](https://github.com/zettaScaleLabs/nu-zenoh) - A Zenoh REPL built for the  [Nu Shell](http://nushell.sh).
 - [`zenoh-cli`](https://github.com/RISE-Maritime/zenoh-cli) – A Python-based commandline tool to interact with a Zenoh Session.
+- [`zenoh-cli`](https://github.com/BalansCollective/zenoh-cli) – A Node.js-based CLI for Zenoh pub/sub, inspired by ROS2 topic commands.
 - [`zsak`](http://github.com/kydos/zsak) - Zenoh Swiss Army Knife, a Rust-based commandline tool that can be used to learn Zenoh.
 
 ---
