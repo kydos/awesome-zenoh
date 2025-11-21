@@ -80,6 +80,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [`zenoh-bridge-mqtt`](https://github.com/eclipse-zenoh/zenoh-bridge-mqtt) – Bridge between MQTT and Zenoh.
 - [`liason`](https://github.com/RISE-Maritime/liaison) - Simplify the sharing of Functional Mock-up Units (FMUs) both within and between organizations.
 - [`gatorcat`](https://github.com/kj4tmp/gatorcat) - EtherCAT maindevice written in Zig with Zenoh connectivity.
+- ['nodered-contrib-zenoh'](https://github.com/freol35241/nodered-contrib-zenoh) - Zenoh in Node-RED
 
 ---
 
