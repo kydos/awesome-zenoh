@@ -38,6 +38,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - 🎓 [Zenoh Tutorial](https://speakerdeck.com/kydos/collections/zenoh-tutorial)
 - 📗 [Zenoh Spec](https://spec.zenoh.io)
 - 📕 [Zenoh Newsletter](https://corsaro.me/en/zenoh/report/)
+- 📆 [Zenoh Meeting Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_027ddba272937f82c2cfac82be42d41c95525fd1a2bf4f779d297816acc34664@group.calendar.google.com&ctz=UTC)
   
 ---
 
