@@ -113,6 +113,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 ## Robotics
 
+- [`babyros`](https://github.com/telekinesis-ai/babyros) - a mini version of ROS built on top of the Zenoh protocol. 
 - [`keelson`](https://github.com/RISE-Maritime/keelson) - Maritime best practices API specification designed for building distributed maritime robotics applications on top of the Zenoh communication protocol.
 - [`Tide`](https://github.com/NorthCarolinaRivalRobotics/tide) - A lightweight, strongly-typed framework for robotics based on Zenoh, with opinionated namespacing.
 
