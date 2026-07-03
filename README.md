@@ -104,7 +104,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 ## ROS 2
 
 - [`rmw_zenoh`](http://github.com/ros2/rmw_zenoh) – Zenoh-based middleware implementation for ROS 2.
-- [`ros-z`](http://github.com/zettaScaleLabs/ros-z) - Zenoh-native ROS 2 implementation.
+- [`hiroz`](https://github.com/ZettaScaleLabs/hiroz) - High-performance Interoperable Robotics on Zenoh, ROS 2 compatible.
 - [`pico-ros`](https://github.com/pico-ros) - Lightweight ROS 2 implementation designed for resource-constrained devices, Built on top of [zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico)
 - [`zenoh-ros-type`](https://github.com/evshary/zenoh-ros-type) - Common ROS 2 message types for Zenoh in Rust.
 - [`zenoh-ros-type-python`](https://github.com/evshary/zenoh-ros-type-python) - Common ROS 2 message types for Zenoh in Python.
