@@ -92,6 +92,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [`gatorcat`](https://github.com/kj4tmp/gatorcat) - EtherCAT maindevice written in Zig with Zenoh connectivity.
 - [`nodered-contrib-zenoh`](https://github.com/freol35241/nodered-contrib-zenoh) - Zenoh in Node-RED
 - [`zenoh-plugin-grpc`](https://github.com/shupx/zenoh-plugin-grpc.git) - Expose zenoh API via gRPC calls.
+- [`reductstore`](https://github.com/reductstore/reductstore) - High-performance, time-indexed object storage for robotics and industrial IoT with native Zenoh API support.
 
 ---
 
