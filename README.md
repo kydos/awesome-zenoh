@@ -45,8 +45,9 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 ## Protocol Implementations
 
 - [`zenoh`](https://github.com/eclipse-zenoh/zenoh) – Official Rust implementation of Zenoh.
-- [`zenoh`](https://github.com/eclipse-zenoh/zenoh-nostd) – Official Rust no-std no-alloc implementation of Zenoh.
+- [`zenoh-nostd`](https://github.com/eclipse-zenoh/zenoh-nostd) – Official Rust no-std no-alloc implementation of Zenoh.
 - [`zenoh-pico`](https://github.com/eclipse-zenoh/zenoh-pico) – Lightweight implementation in C for MCUs and embedded platforms.
+- [`zenoh-cxx`](https://github.com/kydos/zenoh-cxx) - A vibe coded C++23 implementation of Zenoh. 
 
 ---
 
