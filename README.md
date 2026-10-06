@@ -95,6 +95,7 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 - [`nodered-contrib-zenoh`](https://github.com/freol35241/nodered-contrib-zenoh) - Zenoh in Node-RED
 - [`zenoh-plugin-grpc`](https://github.com/shupx/zenoh-plugin-grpc.git) - Expose zenoh API via gRPC calls.
 - [`reductstore`](https://github.com/reductstore/reductstore) - High-performance, time-indexed object storage for robotics and industrial IoT with native Zenoh API support.
+- [`zenoh-plugin-ros2rcl`](https://github.com/shupx/zenoh-plugin-ros2rcl) - Bridge ROS 2 topics and services over Zenoh with rclrs, compatible with any ROS 2 RMW.
 
 ---
 
