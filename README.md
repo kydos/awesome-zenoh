@@ -185,6 +185,8 @@ Zenoh is designed to provide a unified abstraction for pub/sub, query/reply, and
 
 ## Community Projects
 
+- [`goat`](https://github.com/USAREUR-AF/goatcore) – Open-source data fabric for sites with poor or intermittent connectivity: a Zenoh router at every site with no central broker, on a WireGuard mesh, with certificate identity and post-quantum hybrid TLS.
+
 > Help us grow this list! Submit your project via PR or issue.
 
 ---
